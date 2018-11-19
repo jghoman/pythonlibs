@@ -12,6 +12,7 @@ A list of Python libs that I want to keep track of for future use.
 * [s3fs](http://s3fs.readthedocs.org/en/latest/) - Intuitive filesystem-like access to AWS S3.
 * [shiftmanager](https://github.com/SimpleFinance/shiftmanager/) - Tools for managing AWS Redshift clusters.
 * [tqdm](https://github.com/noamraph/tqdm) - Wrap iterables in a detailed progress bar.  [Example](https://github.com/jghoman/tqdm-example).
+* [pipdeptree](https://github.com/naiquevin/pipdeptree) - Show pip dependencies in a tree structure.
 
 Other, more complete lists:
 
