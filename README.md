@@ -14,6 +14,7 @@ A list of Python libs that I want to keep track of for future use.
 * [tqdm](https://github.com/noamraph/tqdm) - Wrap iterables in a detailed progress bar.  [Example](https://github.com/jghoman/tqdm-example).
 * [pipdeptree](https://github.com/naiquevin/pipdeptree) - Show pip dependencies in a tree structure.
 * [rich](https://github.com/willmcgugan/rich) - Pretty print output with tables and colors.
+* [click](https://click.palletsprojects.com/en/7.x/) - Command line argument parser
 
 Other, more complete lists:
 
